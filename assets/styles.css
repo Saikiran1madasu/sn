@@ -81,20 +81,22 @@ main {
     width: 85%;
     object-fit: contain;
     display: block;
-    display: block;
 }
 
+.title img {
+    width: 85%;
+    height: auto;
+}
 
 .title span {
     color: #fb717b;
 }
 
 .placeholder {
-    width: 100%;
-    height: 50px;
-    background-color: #f0f0f0;
+  width: 100%;
+  height: 50px;
+  background-color: #f0f0f0;
 }
-
 
 .sub-heading {
     font-family: 'barlow';
